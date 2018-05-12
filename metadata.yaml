@@ -1,0 +1,26 @@
+_repo: The-Girl-Scouts-RallyRosanna-Wins_38152
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Galt, Katherine Keene
+    gutenberg_agent_id: '9498'
+    url: http://www.gutenberg.org/2009/agents/9498
+description: ''
+gutenberg_issued: '2011-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girl Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Clubs -- Juvenile fiction'
+title: The Girl Scouts Rally; or, Rosanna Wins
+url: http://www.gutenberg.org/ebooks/38152
